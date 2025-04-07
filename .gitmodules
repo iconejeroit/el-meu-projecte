@@ -1,0 +1,6 @@
+[submodule "exemple-plantilla"]
+	path = exemple-plantilla
+	url = https://github.com/iconejeroit/exemple-plantilla.git
+[submodule "libs/repositori-extern"]
+	path = libs/repositori-extern
+	url = https://github.com/iconejeroit/exemple-plantilla.git
